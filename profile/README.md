@@ -1,4 +1,4 @@
-<img width="900" src="https://github.com/go-lynx/lynx/assets/32378959/765941cc-c903-4376-a9cb-39090e742bb9">
+<img width="400" src="https://github.com/go-lynx/.github/assets/32378959/d19d30d9-f9ce-477c-9466-c0926a8500d3">
 
 Welcome to the **Go-Lynx Community**, a dedicated hub for the development of plug-and-play microservice frameworks using Go language. Our mission is to enhance the capabilities of microservices by linking components from around the world through a plugin mode.
 
